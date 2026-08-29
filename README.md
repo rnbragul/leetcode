@@ -28,8 +28,8 @@ I update this repository as I solve problems and learn new algorithmic patterns.
 
 ## Repository conventions
 
-Solutions are organised around the problem/topic they belong to. Commit messages should describe the change clearly rather than using generic messages such as `update` or `changes`.
+Solutions are organised around the problem or topic they belong to. Commit messages should describe the change clearly rather than using generic messages such as `update` or `changes`.
 
-## Next step
+## DSA track
 
-My main DSA track is being consolidated into a dedicated **Striver A2Z DSA — Java** repository so that the sheet progress and Java solutions can be followed in one place.
+My current DSA practice is organised around common roadmap topics, with Java as the main language for solutions.
